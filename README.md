@@ -46,5 +46,5 @@ Engineer with 5+ years of experience building scalable cloud infrastructure, obs
 
 ### Education
 
-**Bachelor of Applied Science** in Information Technology
+**Bachelor of Applied Science** in Information Technology<br>
 [State Polytechnic of Jember](https://polije.ac.id/) - Jember, East Java, ID _(2015 - 2019)_
