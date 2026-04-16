@@ -22,7 +22,7 @@ Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugia
 - Independently handled on-call support and incident response, maintaining 99.9%+ system uptime across production infrastructure and platform services.
 - Collaborated on post-mortems and RCA processes, driving continuous improvement in system reliability and MTTR.
 
-**DevOps Engineer** | HalalNode | *Jul 2019 – Feb 2021* 
+**DevOps Engineer** | Halalnode | *Jul 2019 – Feb 2021* 
 
 - Architected containerized infrastructure (Docker/Nginx) and engineered GitLab CI/CD pipelines, standardizing delivery and boosting deployment reliability.
 - Automated infrastructure provisioning with Ansible, eliminating repetitive tasks and reducing manual effort by 90%.
