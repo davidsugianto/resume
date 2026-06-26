@@ -1,6 +1,6 @@
 # David Sugianto
 
-Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugianto)
+Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugianto) | [Linkedin](https://www.linkedin.com/in/davidsugianto8)
 
 > Engineer with 5+ years of experience building scalable cloud infrastructure, observability systems, and FinOps automation for high-traffic e-commerce platforms. Proven track record reducing manual toil by 90%, achieving 100% L0/L1 service monitoring coverage, and enabling cost-optimized, outage-free scaling during peak campaigns through predictive capacity planning and data-driven automation.
 
