@@ -6,7 +6,9 @@ Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugia
 
 ## Experience
 
-**Site Reliability Engineer** | ByteDance | _Mar 2025 – Present_
+**Platform Engineer** | ByteDance | _Mar 2025 – Present_
+
+> Engineer site reliability solutions focusing on predictive capacity planning, SDLC analytics, and unified service metadata. Implement large-scale cloud migration automation to ByteCloud, ensuring high availability and multi-VDC resilience for critical services.
 
 - Designed and built predictive capacity planning system using Facebook Prophet framework to convert GMV/QPS forecasts into infrastructure machine specs for Tokopedia's peak campaigns, eliminating assumption-based provisioning and enabling cost-optimized.
 - Built an SDLC analytics platform that eliminated manual reporting and enabled real-time quality insights for leadership, accelerating data-driven decisions across business lines.
@@ -16,6 +18,8 @@ Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugia
 
 **System Engineer** | Tokopedia | _Mar 2021 – Mar 2025_
 
+> Engineered FinOps and infrastructure automation initiatives for a high-traffic e-commerce platform. Managed Infrastructure as Code (IaC), built distributed event systems, and maintained system reliability through rigorous incident response and continuous improvement processes.
+
 - Engineered a cloud cost platform integrated with Looker Studio and BigQuery for unified cost reporting, budgeting, and resource planning.
 - Developed a centralized service inventory platform through providing full visibility into service configurations, dependencies, and infrastructure details information.
 - Built a distributed event platform using Pub/Sub and Go to track cloud infrastructure lifecycle changes and drive automation workflows.
@@ -24,6 +28,8 @@ Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugia
 - Collaborated on post-mortems and RCA processes, driving continuous improvement in system reliability and MTTR.
 
 **DevOps Engineer** | Halalnode | _Jul 2019 – Feb 2021_
+
+> Architected and maintained foundational cloud operations, focusing on containerization, CI/CD pipeline standardization, and infrastructure automation. Deployed comprehensive monitoring stacks to ensure real-time observability and system health.
 
 - Architected containerized infrastructure (Docker/Nginx) and engineered GitLab CI/CD pipelines, standardizing delivery and boosting deployment reliability.
 - Automated infrastructure provisioning with Ansible, eliminating repetitive tasks and reducing manual effort by 90%.
