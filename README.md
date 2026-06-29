@@ -6,7 +6,7 @@ Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugia
 
 ## Experience
 
-**Platform Engineer** | ByteDance | _Mar 2025 – Present_
+**Site Reliability Engineer** | ByteDance | _Mar 2025 – Present_
 
 > Engineer site reliability solutions focusing on predictive capacity planning, SDLC analytics, and unified service metadata. Implement large-scale cloud migration automation to ByteCloud, ensuring high availability and multi-VDC resilience for critical services.
 
