@@ -8,7 +8,7 @@ Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugia
 
 **Site Reliability Engineer** | ByteDance | _Mar 2025 – Present_
 
-> Engineer site reliability solutions focusing on predictive capacity planning, SDLC analytics, and unified service metadata. Implement large-scale cloud migration automation to ByteCloud, ensuring high availability and multi-VDC resilience for critical services.
+> Engineer site reliability solutions focusing on platform engineering to engineered predictive capacity planning, SDLC analytics, and unified service metadata. Implement large-scale cloud migration automation, ensuring high availability and multi-VDC resilience for critical services.
 
 - Designed and built predictive capacity planning system using Facebook Prophet framework to convert GMV/QPS forecasts into infrastructure machine specs for Tokopedia's peak campaigns, eliminating assumption-based provisioning and enabling cost-optimized.
 - Built an SDLC analytics platform that eliminated manual reporting and enabled real-time quality insights for leadership, accelerating data-driven decisions across business lines.
