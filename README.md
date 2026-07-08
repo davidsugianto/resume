@@ -8,13 +8,15 @@ Jakarta, ID | davidsugianto23@gmail.com | [GitHub](https://github.com/davidsugia
 
 **Site Reliability Engineer** | ByteDance | _Mar 2025 – Present_
 
-> Engineer site reliability solutions focusing on platform engineering to engineered predictive capacity planning, SDLC analytics, and unified service metadata. Implement large-scale cloud migration automation, ensuring high availability and multi-VDC resilience for critical services.
+> Engineer site reliability solutions focusing on platform engineering to deliver predictive capacity planning, SDLC analytics, and unified service metadata. Implement large-scale cloud migration automation, ensuring high availability and multi-VDC resilience for critical services.
 
-- Designed and built predictive capacity planning system using Facebook Prophet framework to convert GMV/QPS forecasts into infrastructure machine specs for Tokopedia's peak campaigns, eliminating assumption-based provisioning and enabling cost-optimized.
-- Built an SDLC analytics platform that eliminated manual reporting and enabled real-time quality insights for leadership, accelerating data-driven decisions across business lines.
-- Architected unified service metadata platform consolidating 10+ systems into a single source of truth, with real-time resource ingestion (TCE/Redis/RDS) achieving 99% HA coverage and 100% multi-VDC resilience for P0/P1 services—enabling proactive service management for Tokopedia RD teams.
-- Engineered automation and observability platforms for large-scale cloud migrations—reducing manual effort by 90% and providing real-time visibility into infrastructure health, migration progress, and cutover readiness for SRE teams.
-- Supported cross-functional migration of online applications to ByteCloud, validating readiness and monitoring post-migration health.
+- Designed and built a predictive capacity planning system using the Facebook Prophet framework to convert GMV/QPS forecasts into TCE infrastructure machine specs for Tokopedia peak campaigns, adopted by SRE teams since March 2026 across 8+ major promotional events (PayDay, Double Date, Ramadan), supporting up to $25.9M GMV per peak day and 58,000 cores while holding peak utilization to 20–45% and eliminating assumption-based provisioning.
+- Built an SDLC analytics platform tracking 27 quality metrics across 36 engineering teams (segmented by Overall Tokopedia, C-End, and Developer Platform), eliminating manual reporting (5 engineers → 0) and enabling real-time quality insights for bug resolved rates of 94.44% (online) and 100% (P0) for leadership decision-making.
+- Architected a unified service metadata platform consolidating 10+ systems into a single source of truth across 1,502 resources (761 TCE + 741 Non-TCE PSMs) and 22 teams, with real-time resource data ingestion (TCE/Redis/RDS) achieving 96.6% HA coverage and 100% multi-VDC resilience for P0/P1 services surfacing 50 HA and 20 cost-optimization recommendations for Tokopedia RD teams.
+- Engineered automation and observability platforms for large-scale cloud migrations—reducing manual effort by 90%, cutting migration planning from 15 days to 1 hour for 200+ services, and providing real-time visibility into infrastructure health, migration progress, and cutover readiness for SRE teams.
+- Onboarded 38 critical services to GEC observability standards (Success Rate, QPS, Latency) with 99.9% uptime monitoring, and delivered a GMV/P0 business-scenario monitoring dashboard covering 6 P0 scenarios with 50 monthly active users across SRE and engineering teams.
+- Supported cross-functional migration of 50+ online applications to ByteCloud with zero critical incidents and <15 minutes downtime per service, validating readiness and monitoring post-migration health.
+- Authored the SRE Observability Operation Handbook, cutting new SRE onboarding time by 40% and reducing incident escalations by 25%.
 
 **System Engineer** | Tokopedia | _Mar 2021 – Mar 2025_
 
